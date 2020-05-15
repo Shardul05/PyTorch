@@ -4,6 +4,10 @@ Created on Thu May 14 17:52:54 2020
 
 @author: DELL
 """
+=============================================================================================================================
+#  First successful implementation of PyTorch functions for logistic regression, based on the PyTorch tutorial.
+=============================================================================================================================
+
 #%%
 
 # Logistic Regression : Tutorial code
